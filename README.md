@@ -4,27 +4,26 @@
 
 ## Funcionalidades
 </hr>
-<p></p>
+
+
+
 
 ## Tecnologias
 </hr>
-<p>
-  <br>
-  - PHP
+  PHP
   - HTML
   - CSS
   - JavaScript
-  MySQL
-  </br>
-</p>
-<br>
-<title>SGBD</title>
-  <p>- MySQL</p>
- </br>
- <br>
-<title>Framework</title>
-  <p>-Svelte</p>
- </br>
+  - MySQL
+  - Svelte
+
 ## Desenvolvedores
 </hr>
+
+  - Isaac Luiz
+  - Jacilene de Lima Ferreira
+  - Valdir
+  - Victor Antônio
+  - Washington dos Santos Marinho
+  - Willyane       
 
