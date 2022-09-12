@@ -10,16 +10,21 @@
 </hr>
 <p>
   <br>
-   PHP,
-  | HTML,
-  | CSS,
-  | JavaScript
+  - PHP
+  - HTML
+  - CSS
+  - JavaScript
+  MySQL
   </br>
 </p>
+<br>
 <title>SGBD</title>
-  <br> MySQL</br>
+  <p>- MySQL</p>
+ </br>
+ <br>
 <title>Framework</title>
-  <br>-Svelte</br>
+  <p>-Svelte</p>
+ </br>
 ## Desenvolvedores
 </hr>
 
