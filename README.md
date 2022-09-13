@@ -10,7 +10,8 @@
 
 ## Tecnologias
 </hr>
-  PHP
+  
+  - PHP
   - HTML
   - CSS
   - JavaScript
@@ -20,10 +21,10 @@
 ## Desenvolvedores
 </hr>
 
-  - Isaac Luiz
-  - Jacilene de Lima Ferreira
-  - Valdir
-  - Victor Antônio
-  - Washington dos Santos Marinho
-  - Willyane       
+  - <a href="https://github.com/IsaacLuiz8"> Isaac Luiz</a>
+  - Jacilene de Lima
+  - <a href="https://github.com/Kehrle"> Valdir Kehrle </a>
+  - <a href="https://github.com/victor16042002">Victor Antônio</a>
+  - Washington dos Santos
+  - <a href="https://github.com/willyfelix">Williane Felix</a>      
 
