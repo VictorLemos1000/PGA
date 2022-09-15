@@ -4,7 +4,7 @@
 
 ## Funcionalidades
 </hr>
-
+Calendário de abastecimento, Consulta de região, Cadastro de usuários, Notificações do abastecimento, Aba de perguntas.
 
 
 
