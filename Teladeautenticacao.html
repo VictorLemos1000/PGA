@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Teladeautenticacao.css">
+    <title>Tela de Autenticação</title>>
+</head>
+<body>
+<main class="container">
+<form action="post">
+    <div class="formulario" id="formulario">
+        <div class="autenticacao">
+        <h1>Autenticação</h1>
+        </div>
+        
+    <div class="input-field" id="input-field">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" autocomplete="on" placeholder="Nome">
+    <div class="undeline">    
+    </div>
+    </div>
+    
+    <div class="input-field" id="input-field">
+        <label for="cpf">CPF:</label>
+        <input type="text" id="cpf" name="cpf" autocomplete="off" placeholder="CPF"
+        pattern="\d{3}\.d{3}\.d{3}-\d{2" title="Digite o CPF no formato: xxx.xxx.xxx-xx">
+    </div>
+
+    <div class="input-field" id="input-field">
+        <label for="senha">Email:</LABel>
+        <input type="text" id="email" name="email"  autocomplete="on" placeholder="Email">
+    </div>
+    
+    <div class="input-field" id="input-field">
+        <label for="senha">Senha:</Label>
+        <input type="password" id="password" name="senha"  autocomplete="off" minlength="8" placeholder="Senha">
+    </div>  
+
+    <div class="box" id="box">
+        <label for="enviar" id="label-l"></label>
+        <input type="submit" id="box" value="Enviar">
+        <input type="reset" id="box" value="Redefinir">
+    </div>
+    <br>
+    <div>
+   <p>Já possui uma conta? <a href="Prototipopga.html"><span>Clique aqui</span></a> </p>
+</div>
+</div>
+</form>
+</main>
+</body>
+</html>
